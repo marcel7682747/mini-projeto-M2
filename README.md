@@ -36,12 +36,6 @@ JavaScript (ES Modules)
  ┣ 📜 package.json
  ┗ 📜 README.md
 
-⚙️ Configuração do Ambiente
-
-Crie um arquivo .env na raiz do projeto com a string de conexão do MongoDB:
-
-DB_CONCECTION_STRING=mongodb+srv://usuario:senha@cluster.mongodb.net/biblioteca
-
 ▶️ Executando a Aplicação
 npm start
 
