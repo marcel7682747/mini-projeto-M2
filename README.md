@@ -90,10 +90,3 @@ paginas (Number)
 
 Desenvolvido por Marcelo Henrique 🚀
 
-📄 Licença
-
-Este projeto está sob a licença MIT.
-
-🔍 Corrigir pequenos erros no código (tem alguns detalhes de digitação)
-
-📘 Criar documentação Swagger
