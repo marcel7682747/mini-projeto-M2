@@ -42,22 +42,6 @@ Crie um arquivo .env na raiz do projeto com a string de conexão do MongoDB:
 
 DB_CONCECTION_STRING=mongodb+srv://usuario:senha@cluster.mongodb.net/biblioteca
 
-🔧 Instalação
-
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/biblioteca-api.git
-
-
-Entre na pasta do projeto:
-
-cd biblioteca-api
-
-
-Instale as dependências:
-
-npm install
-
 ▶️ Executando a Aplicação
 npm start
 
